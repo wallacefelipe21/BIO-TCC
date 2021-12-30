@@ -17,6 +17,10 @@ O jogo, chamado BIO, tem por objetivo apresentar um vasto mundo aberto inspirado
 Este projeto foi feito para o TCC (Trabalho de Conclusão de Curso) em Desenvolvimento de Sistemas na ETEC, em conjunto de meus colegas [Valderi Douglas](https://github.com/ValderiDouglas) e Rafael Moreira   
 
 <p align="center">
+<img src = "./panorama.gif" alt = "Panorama BIO"/>
+</p>
+    
+<p align="center">
 <img src = "./gameplay.gif" alt = "Gameplay BIO"/>
 </p>
 
