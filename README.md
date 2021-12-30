@@ -17,11 +17,11 @@ O jogo, chamado BIO, tem por objetivo apresentar um vasto mundo aberto inspirado
 Este projeto foi feito para o TCC (Trabalho de Conclusão de Curso) em Desenvolvimento de Sistemas na ETEC, em conjunto de meus colegas [Valderi Douglas](https://github.com/ValderiDouglas) e Rafael Moreira   
 
 <p align="center">
-<img src = "./panorama.gif" alt = "Panorama BIO"/>
+<img src = "./panorama.gif" alt = "Panorama BIO" width=600px height=300px/>
 </p>
     
 <p align="center">
-<img src = "./gameplay.gif" alt = "Gameplay BIO"/>
+<img src = "./gameplay.gif" alt = "Gameplay BIO" width=600px height=300px/>
 </p>
 
 <span id="tecnologias">
@@ -30,10 +30,6 @@ Este projeto foi feito para o TCC (Trabalho de Conclusão de Curso) em Desenvolv
 
 Para realização deste projeto, a ferramenta Unity foi escolhida, já que continha grande parte dos apetrechos necessários para construção do jogo, resultando em um projeto leve e que atende as expectativas para criação do jogo. Já para a modelagem dos objetos 3D, a ferramenta escolhida foi o Blender que também foi utilizado na criação das animações. A base para os códigos foi feita inteiramente utilizando C# junto de orientação a objetos.
   
-<p align="center">
-<img src = "./blender.gif" alt = "Blender Personagem"/>
-</p>
-
 <span id="rodar">
 
 # :page_facing_up: Como Rodar
@@ -55,7 +51,7 @@ O versionamento de código não foi o foco de nosso grupo, por conta disso todos
 - Para editar o projeto dentro de sua Unity, será necessário fazer o download da Unity versão 2020.3.0f1. Dentro do unity HUB utilize o botão "ADD", localizado no canto superior direito, e selecione a pasta do projeto. Assim o projeto se torna disponível para edição. 
 
 <p align="center">
-<img src = "./unityhub.gif" alt = "Unity HUB Tutorial"/>
+<img src = "./unityhub.gif" alt = "Unity HUB Tutorial" width=700px height=400px/>
 </p>
 
 - Caso você queira jogar, basta escolher uma das pastas referentes a qualidade do jogo e então executar o arquivo "Bio.exe".
