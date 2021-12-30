@@ -34,7 +34,7 @@ Para realização deste projeto, a ferramenta Unity foi escolhida, já que conti
 
 # :page_facing_up: Como Rodar
 
-O versionamento de código não foi o foco de nosso grupo, por conta disso todos os códigos podem ser encontrados dentro [desde link]() para o drive. Depois de seu download siga os passos abaixo para editar o projeto ou jogar nosso jogo!
+O versionamento de código não foi o foco de nosso grupo, por conta disso todos os códigos podem ser encontrados dentro [desde link](https://drive.google.com/drive/folders/1xPmMhbRYXJUonfC9aKz5I0CCCp5qqWZ-?usp=sharing) para o drive. Depois de seu download siga os passos abaixo para editar o projeto ou jogar nosso jogo!
 
 <h3 align = "center"> Arquivos presentes da pasta do drive. </h3>
 <div align = "center">
