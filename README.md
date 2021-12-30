@@ -51,7 +51,7 @@ O versionamento de código não foi o foco de nosso grupo, por conta disso todos
 - Para editar o projeto dentro de sua Unity, será necessário fazer o download da Unity versão 2020.3.0f1. Dentro do unity HUB utilize o botão "ADD", localizado no canto superior direito, e selecione a pasta do projeto. Assim o projeto se torna disponível para edição. 
 
 <p align="center">
-<img src = "./untiyhub.gif" alt = "Unity HUB Tutorial"/>
+<img src = "./unityhub.gif" alt = "Unity HUB Tutorial"/>
 </p>
 
 - Caso você queira jogar, basta escolher uma das pastas referentes a qualidade do jogo e então executar o arquivo "Bio.exe".
